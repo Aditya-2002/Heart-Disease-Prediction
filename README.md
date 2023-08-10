@@ -2,13 +2,13 @@
 This project focuses on predicting heart disease using various machine learning models. The dataset used in this project is sourced from Kaggle. We have employed five different models for prediction: Logistic Regression, Support Vector Machine (SVM), K-Nearest Neighbors (KNN), Decision Tree, and Random Forest. Each of these models was trained on the Kaggle dataset, and their performance was evaluated on a separate test dataset. The accuracy scores were calculated for each model, and the results indicated that the K-Nearest Neighbors model achieved the highest accuracy score.
 
 ## Table of Contents
-Background
-Dataset
-Models
-Results
-Conclusion
-Usage
-Contributors
+Background\\
+Dataset\\
+Models\\
+Results\\
+Conclusion\\
+Usage\\
+Contributors\\
 
 ## Background
 Heart disease is a critical health issue that affects a significant portion of the global population. Early prediction of heart disease can be valuable for timely medical intervention and prevention. Machine learning techniques offer an avenue to leverage historical data and build predictive models to assist in identifying individuals at risk of heart disease.
